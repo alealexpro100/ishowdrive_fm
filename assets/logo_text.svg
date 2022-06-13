@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <path fill="#b38700" d="M4.7 0h94.5v75.6H4.7Z"/>
+  <path fill="#ffbf00" d="M0 4.8h94.5v75.6H0Z"/>
+  <path fill="#0073ff" d="M14.2 37.8v42.5h9.4v-34H71v34h9.4V37.8Z"/>
+  <path fill="none" stroke="#0073ff" stroke-width="2.6" d="M20.2 36.9a27 27 0 0 1 27-27.1 27 27 0 0 1 27.1 27"/>
+  <path fill="none" stroke="#0073ff" stroke-width="2" d="M26 36.9a21.2 21.2 0 0 1 21.2-21.3A21.2 21.2 0 0 1 68.5 37"/>
+  <path fill="none" stroke="#0073ff" stroke-width="1.5" d="M31.2 36.9a16 16 0 0 1 16-16.1 16 16 0 0 1 16 16"/>
+  <text xml:space="preserve" x="103.1" y="29.3" font-family="sans-serif" font-size="29.3" font-weight="400"><tspan x="103.1" y="29.3">File Manager</tspan></text>
+  <text xml:space="preserve" x="110.8" y="70.4" font-family="sans-serif" font-size="42.7" font-weight="400"><tspan x="110.8" y="70.4">For Web</tspan></text>
+</svg>
